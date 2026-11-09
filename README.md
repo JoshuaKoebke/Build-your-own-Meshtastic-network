@@ -24,7 +24,7 @@ Before plugging anything into power, you must assemble the modules properly to p
 3. **Optional Battery:** If using a 3.7V LiPo battery, ensure correct polarity (negative terminal closest to the USB-C port).
 
 2️⃣ Flash the Device
-Go to Meshtastic Web Interface
+Go to Meshtastic Web Interface https://flasher.meshtastic.org/ 
 Click "Flash" → Select your device → "Flash"
 Wait 1-2 minutes (device will reboot)
 Done! Now your device is ready for use.
@@ -32,7 +32,7 @@ Done! Now your device is ready for use.
 ## 💻 2. Flashing via the Meshtastic Web Flasher
 The standard method uses the browser-based installer via Google Chrome or Microsoft Edge.
 
-1. Open the [Meshtastic Web Flasher](https://meshtastic.org).
+1. Open the [Meshtastic Web Flasher](https://meshtastic.org). https://flasher.meshtastic.org/ 
 2. Select **Seeed XIAO S3** as your target device.
 3. Pick the latest stable or beta firmware version.
 4. Check **Full Erase and Install** (highly recommended to prevent corrupted storage fragments).
